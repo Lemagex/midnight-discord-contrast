@@ -6,11 +6,11 @@
 
 :root {
     /* text colors */
-    --text-0: var(--bg-4); /* text on colored elements */
-    --text-1: hsl(220, 45%, 95%); /* other normally white text */
-    --text-2: hsl(220, 25%, 70%); /* headings and important text */
-    --text-3: hsl(220, 20%, 60%); /* normal text */
-    --text-4: hsl(220, 15%, 40%); /* icon buttons and channels */
+    --text-0: hsl(220, 100%, 100%);  /* Pure white */  
+    --text-1: hsl(220, 30%, 98%);    /* Warm white */  
+    --text-2: hsl(220, 25%, 92%);    /* Soft white */  
+    --text-3: hsl(220, 20%, 85%);    /* Light gray-blue */  
+    --text-4: hsl(220, 15%, 75%);    /* Muted gray-blue */  
     --text-5: hsl(220, 15%, 25%); /* muted channels/chats and timestamps */
 
     /* background and dark colors */
